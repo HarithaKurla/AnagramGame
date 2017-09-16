@@ -38,6 +38,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         "Haritha",
+        "abhilash",
         "sasikala",
         "abstraction",
         "ambiguous",
@@ -88,6 +89,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "ahtirah",
+        "lshahiba",
         "alakisas",
         "batsartcoin",
         "maibuguos",
